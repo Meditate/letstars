@@ -1,3 +1,7 @@
+== Letstars
+
+Code cleaning coming soon
+
 Contest platform, where musicians can show their talent, express themselves and share their thoughts in blog, take part in various music contests and in consequence gain fame and win prizes.
 
 
